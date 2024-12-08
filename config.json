@@ -1,8 +1,8 @@
 {
-    "TOKEN": "MTE3OTYyMTE1NzkwNTg5MTMzOQ.GWyN4P.8zGWTuCebz5lLKC2UWxhkvtgOQg3VmHVRA3sLI",
+    "TOKEN": "MTI3MjUwNTE5NzEwMDQwNDgyOA.G6a-v0.kjaEPkFTWVZ7zl2ifI0M0A1RqZHqIIsDcdxYOE",
     "MONGO_DB": "mongodb+srv://satxler:jupiter@satxler.wsnyzxc.mongodb.net/?retryWrites=true&w=majority&appName=satxler",
     "cooldown": true,
-    "owner": ["1212431696381612132","1143155471159664710"],
+    "owner": ["628210756311056404","1143155471159664710"],
     "admin": [
         "1212431696381612132",
         "1061393929473359922",
@@ -25,5 +25,5 @@
         "775333233335205918",
         "1143155471159664710"
     ],
-    "invite": "https://discord.com/api/oauth2/authorize?client_id=1211002891775512629&permissions=8&scope=bot"
+    "invite": "https://discord.com/oauth2/authorize?client_id=1272505197100404828&permissions=8&integration_type=0&scope=bot"
 }
